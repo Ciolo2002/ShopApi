@@ -1,0 +1,8 @@
+#ingore mysql folder content
+mysql/*
+
+#ignore .env
+*.env
+
+.idea/
+.idea/*
