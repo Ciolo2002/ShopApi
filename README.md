@@ -12,6 +12,7 @@ This is a simple web application in PHP 8.2 with Laravel 11 that allows sync sho
 ## Installation
 - Clone the repository
 - Move to the root directory of the project (where the docker-compose.yml file is located)
+- Create an empty directory called `mysql` in the root directory
 - Create a .env file in the root directory `cp .env.example .env`
   - Set the values of the environment variables in the .env file
 - Move into code/shop and create a .env file `cp .env.example .env`
